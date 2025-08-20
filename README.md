@@ -4,7 +4,7 @@ O projeto foi construído do zero, utilizando apenas HTML e CSS puros, para fort
 
 Você pode ver o resultado final no link abaixo:
 
-🔗 **Acesse a demonstração ao vivo:** [**https://mentus99.github.io/login/**](https://mentus99.github.io/login/)
+🔗 **Acesse pelo github pages:** [**https://mentus99.github.io/login/**](https://mentus99.github.io/login/)
 
 ---
 
@@ -28,7 +28,7 @@ Para construir este projeto, utilizei as seguintes tecnologias:
 ---
 
 ##
-Este projeto foi desenvolvido por mim, **[[Gabriel Mendes](https://x.com/G2bryel)]**.
+Este projeto foi desenvolvido por mim, **[Gabriel Mendes](https://x.com/G2bryel)**.
 
 Fique à vontade para se conectar:
 
