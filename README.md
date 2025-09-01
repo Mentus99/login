@@ -1,6 +1,6 @@
 Este é um projeto que desenvolvi para aprimorar minhas habilidades em HTML e CSS. O objetivo foi criar uma interface de login com uma estética moderna, utilizando o efeito *glassmorphism* (vidro fosco).
 
-O projeto foi construído do zero, baseado em um tutorial do canal **[DevClub](https://www.youtube.com/@DevClubRodolfoMori)**, utilizando apenas HTML e CSS puros para fortalecer os conceitos fundamentais do desenvolvimento front-end.
+O projeto foi construído do zero, baseado em um tutorial do canal **[DevClub]([https://www.youtube.com/@DevClubRodolfoMori](https://www.youtube.com/@canaldevclub))**, utilizando apenas HTML e CSS puros para fortalecer os conceitos fundamentais do desenvolvimento front-end.
 
 Você pode ver o resultado final no link abaixo:
 
